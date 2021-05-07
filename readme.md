@@ -1,0 +1,1 @@
+Edit statics in src/main.rs before running.
